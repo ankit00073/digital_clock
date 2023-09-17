@@ -34,5 +34,5 @@ This project is a basic example of a digital clock with AM and PM functionality.
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser to view the digital clock with AM/PM functionality.
 
-Enjoy your new digital clock!
+## Hosted Link :- https://ankit00073.github.io/digital_clock/
 
